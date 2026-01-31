@@ -5,18 +5,18 @@
     font-family: Verdana,"DejaVu Sans", sans-serif;
 }
 
-.background.text_size_small{
+.background.text_size_small {
     font-size: 12; 
 
 }
 
-#nb2{
+#nb2 {
     background-color: white;
     color: blue;
     font-size: 36px;
 }
 
-#nb4{
+#nb4 {
     background-color: green;
     font-size: 24;
     font-weight: bold;
